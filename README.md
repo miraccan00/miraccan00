@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything If I know I would like to help**
 
-- 📫 How to reach me **miraccanyilmazkurumsal@gmail.com**
+- 📫 How to reach me **miraccanyilmazme@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
