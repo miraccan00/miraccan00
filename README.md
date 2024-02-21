@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as DevOps Engineer **At Softtech**
 
-- 📝 I regularly write articles on [miraccanyilmaz.me](miraccanyilmaz.me)
+- 📝 I regularly write articles on [miraccanyilmaz.me](https://miraccanyilmaz.medium.com/)
 
 - 💬 Ask me about **Anything If I know I would like to help**
 
@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[DevOps Hakkında | TR](https://miraccanyilmaz.medium.com/devops-hakkında-17dd45c0204d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
