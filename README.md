@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as DevOps Engineer **At Softtech**
 
-- 📝 I regularly write articles on [miraccanyilmaz.me](https://miraccanyilmaz.medium.com/)
+- 📝 I regularly write articles on [https://miraccanyilmaz.medium.com/](https://miraccanyilmaz.medium.com/)
 
 - 💬 Ask me about **Anything If I know I would like to help**
 
