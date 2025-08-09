@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraccan00&label=Profile%20views&color=0e75b6&style=flat" alt="miraccan00" /> </p>
 
-- 🔭 I’m currently working as DevOps Engineer **At Intertech**
+- 🔭 I’m currently working as DevOps Engineer **At Bilyoner**
 
 - 📝 I regularly write articles on [https://miraccanyilmaz.medium.com/](https://miraccanyilmaz.medium.com/)
 
