@@ -23,13 +23,16 @@
 
 ### Languages and Tools:
 
-| Container/Orchestration    | CI/CD              | Monitoring         | Databases          | IaC & Cloud        | Web/Proxy         | Languages & Frameworks |
-|---------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|----------------------|
-| Kubernetes                 | Jenkins            | Grafana            | MongoDB            | Terraform          | Nginx              | Go                     |
-| Docker                     | Git                | Kibana             | PostgreSQL         | Ansible            | HaProxy            | Python                 |
-|                            | GitLab             | Elasticsearch      | SQLite             | Azure              |                    | Django                 |
-|                            | GitHub             | Backstage          |                    | Google Cloud       |                    | Bash                   |
-|                            | ArgoCD             |                    |                    | VMware             |                    | Fiber                  |
-|                            | Azure DevOps       |                    |                    | Helm               | Vault              |                        |
+| DevOps Tools              | Platform Engineering    | SRE Tools             | Programming        |
+|--------------------------|------------------------|----------------------|-------------------|
+| Jenkins                   | Kubernetes              | Grafana               | Go                  |
+| Git                       | Docker                  | Kibana                | Python              |
+| GitLab                    | Nginx                   | Elasticsearch         | Django              |
+| GitHub                    | HaProxy                 | Backstage             | Bash                |
+| ArgoCD                    | Terraform               | MongoDB               | Fiber               |
+| Azure DevOps              | Ansible                 | PostgreSQL            |                     |
+| Helm                      | Azure                   | SQLite                |                     |
+| Trivy                     | Google Cloud            | Vault                 |                     |
+|                           | VMware                  |                       |                     |
 
 
