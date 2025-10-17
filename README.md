@@ -15,7 +15,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
-- [Twitter](https://twitter.com/miraccan00)
 - [LinkedIn](https://linkedin.com/in/mirac-can-yilmaz)
 - [Instagram](https://instagram.com/miraccan00)
 - [Medium](https://medium.com/@miraccanyilmaz)
