@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[Devops Nedir | TR ](https://miraccanyilmaz.me/blog/devops-nedir/)
-[Yazılım Geliştirme Süreçlerinde DevOps Yaklaşımı ve Popüler Araç Setleri | Bölüm 1 | TR ](https://miraccanyilmaz.me/blog/yazilim-gelistirme-sureclerinde-devops-yaklasimi-ve-populer-arac-setleri-bolum-1/)
-[Pre-Commit Nedir? | TR ](https://miraccanyilmaz.me/blog/pre-commit-nedir/)
+* [Devops Nedir | TR ](https://miraccanyilmaz.me/blog/devops-nedir/)
+* [Yazılım Geliştirme Süreçlerinde DevOps Yaklaşımı ve Popüler Araç Setleri | Bölüm 1 | TR ](https://miraccanyilmaz.me/blog/yazilim-gelistirme-sureclerinde-devops-yaklasimi-ve-populer-arac-setleri-bolum-1/)
+* [Pre-Commit Nedir? | TR ](https://miraccanyilmaz.me/blog/pre-commit-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
