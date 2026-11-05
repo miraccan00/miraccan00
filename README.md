@@ -18,6 +18,7 @@
 
 ### Connect with me:
 - [LinkedIn](https://linkedin.com/in/mirac-can-yilmaz)
+- [X](https://x.com/miraccan00)
 - [Instagram](https://instagram.com/miraccan00)
 - [Web](https://miraccanyilmaz.me)
 - [YouTube](https://www.youtube.com/c/@miraccan00)
