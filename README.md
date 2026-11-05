@@ -1,13 +1,7 @@
 # Hi 👋, I'm Mirac Can
 ## A passionate DevOps Engineer from Turkey
 
-- 🔭 I’m currently working as DevOps Engineer **At Bilyoner**
-
 - 📝 I regularly write articles on [my web site](https://miraccanyilmaz.me)
-
-- 💬 Ask me about **Anything If I know I would like to help**
-
-- 📫 How to reach me **miraccanyilmazme@gmail.com**
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
