@@ -1,0 +1,25 @@
+# Keeps the "Blog Posts" list in README.md in sync with the blog's Atom feed.
+# Runs on GitHub's side once a day; the blog only sees one feed request.
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://miraccanyilmaz.me/feed/atom"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "Update latest blog posts"
+          committer_username: "miraccan00"
+          committer_email: "miraccanyilmazme@gmail.com"
