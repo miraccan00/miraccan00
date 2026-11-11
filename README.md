@@ -5,11 +5,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Terragrunt Nedir? Unit&#39;ler, dependency Bloğu, Remote State ve Tek Repoda İki Bulut](https://miraccanyilmaz.me/blog/terragrunt-dependency-multi-cloud/)
 - [Terraform&#39;da depends_on Nedir? Implicit ve Explicit Bağımlılık ve lifecycle Bloğu](https://miraccanyilmaz.me/blog/terraform-depends-on/)
 - [Observability Nedir? kind Üzerinde Prometheus ve Grafana: Pod Düşünce İlk Kim Fark Eder](https://miraccanyilmaz.me/blog/prometheus-grafana-on-kind/)
 - [Docker Best Practices: CMD, ENTRYPOINT, ADD ve COPY&#39;yi Ne Zaman Kullanmalı &lpar;Lab&#39;da Ölçtüm&rpar;](https://miraccanyilmaz.me/blog/cmd-vs-entrypoint/)
 - [Rootless Container Nedir? Bir İmajı Root&#39;tan Non-Root&#39;a Sıkılaştırmak, Ölçerek](https://miraccanyilmaz.me/blog/rootless-image-hardening/)
-- [SAST ve DAST Arasındaki Fark Nedir? 10 Açıklı Bir Uygulamada Semgrep, Bandit ve OWASP ZAP&#39;ı Denedim](https://miraccanyilmaz.me/blog/sast-vs-dast/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
