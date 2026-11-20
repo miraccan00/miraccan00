@@ -5,11 +5,11 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS VPC Nedir? CIDR Planı, Public, Private ve Isolated Subnet&#39;ler, NAT Gateway, Route Table ve Endpoint&#39;ler; Terraform ile, AWS Faturası Olmadan Test Ettim](https://miraccanyilmaz.me/blog/aws-vpc-networking/)
+- [AWS Emulator Nedir? AWS&#39;nin Kendi Yerel Emülatörünü LocalStack&#39;in Yanına Koydum, Aynı Terraform Stack&#39;i ile](https://miraccanyilmaz.me/blog/aws-emulator-vs-localstack/)
+- [External Secrets Operator Nedir? LocalStack Üzerinde AWS Secrets Manager ve Döndürülen Bir Secret&#39;ın Pod&#39;un İçinden Görünüşü](https://miraccanyilmaz.me/blog/aws-secrets-manager-eso/)
 - [GitHub Actions&#39;ta Reusable Workflow Nedir? workflow_call, Composite Action, Matrix, Cache ve Üç Servisten İkisine Ulaşan Düzeltme](https://miraccanyilmaz.me/blog/github-actions-reusable-workflows/)
 - [Terragrunt Nedir? Unit&#39;ler, dependency Bloğu, Remote State ve Tek Repoda İki Bulut](https://miraccanyilmaz.me/blog/terragrunt-dependency-multi-cloud/)
-- [Terraform&#39;da depends_on Nedir? Implicit ve Explicit Bağımlılık ve lifecycle Bloğu](https://miraccanyilmaz.me/blog/terraform-depends-on/)
-- [Observability Nedir? kind Üzerinde Prometheus ve Grafana: Pod Düşünce İlk Kim Fark Eder](https://miraccanyilmaz.me/blog/prometheus-grafana-on-kind/)
-- [Docker Best Practices: CMD, ENTRYPOINT, ADD ve COPY&#39;yi Ne Zaman Kullanmalı &lpar;Lab&#39;da Ölçtüm&rpar;](https://miraccanyilmaz.me/blog/cmd-vs-entrypoint/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
